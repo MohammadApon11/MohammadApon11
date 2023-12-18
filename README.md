@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png">](https://github.com/MohammadApon11/)[<img height="75" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png">](https://www.facebook.com/mohammad.apon.426/)[<img height="75" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"> </p>](https://mohammadapon.vercel.app/)
+[<p align="center"><img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png">](https://github.com/MohammadApon11/)[<img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png">](https://www.facebook.com/mohammad.apon.426/)[<img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"> </p>](https://mohammadapon.vercel.app/)
 
 <br />
 
