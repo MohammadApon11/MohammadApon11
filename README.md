@@ -28,6 +28,7 @@
 <p align="center">
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/css.png"/>
+<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/python.png"/>
 <img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/next-js.png"/>
 <img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/aws.png"/>
