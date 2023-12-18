@@ -29,8 +29,8 @@
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/css.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/python.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/next-js.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/aws.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/next-js.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/aws.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/tailwind.png"/>
@@ -43,9 +43,9 @@
 <p align="center">
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/node.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/express.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/mongodb.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/cms.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/github.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/mongodb.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/cms.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/github.png"/>
 </p><br/>
 
 ## :eyes: Current overview
