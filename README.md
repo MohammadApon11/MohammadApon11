@@ -52,10 +52,10 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="https://app.daily.dev/devapon1"><img align="right" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/devcard.png" width="200" alt="Mohammad Apon's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
+### 🔭 I’m working - In Solutya Pvt. Ltd. as a Software Engineer. 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
