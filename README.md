@@ -13,7 +13,12 @@
 
 <br />
 
-[<p align="center"><img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png">](https://github.com/MohammadApon11/)[<img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png">](https://www.facebook.com/mohammad.apon.426/)[<img height="60" width="200" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"> </p>](https://mohammadapon.vercel.app/)
+<!-- [<p align="center" gap="10"><img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png">](https://github.com/MohammadApon11/)[<img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png">](https://www.facebook.com/mohammad.apon.426/)[<img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"> </p>](https://mohammadapon.vercel.app/) -->
+<p align="center">
+  <a href="https://github.com/MohammadApon11/"><img height="60" width="210" style="margin-right: 20px;" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png"></a>
+  <a href="https://www.facebook.com/mohammad.apon.426/"><img height="60" width="210" style="margin-right: 20px;" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png"></a>
+  <a href="https://mohammadapon.vercel.app/"><img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"></a>
+</p>
 
 <br />
 
