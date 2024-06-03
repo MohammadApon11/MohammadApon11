@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/mohammad-apon-1b0b88243/">
-<img src="https://raw.githubusercontent.com/MohammadApon11/MohammadApon11/main/images/gihubcover-modified.png" />
+<img src="https://raw.githubusercontent.com/MohammadApon11/MohammadApon11/main/images/githubcover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
