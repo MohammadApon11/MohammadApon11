@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/mohammad-apon-1b0b88243/">
-<img src="https://raw.githubusercontent.com/MohammadApon11/MohammadApon11/main/images/githubcover.png" />
+<a href="https://www.linkedin.com/in/mohammadapon11">
+<img src="https://raw.githubusercontent.com/MohammadApon11/MohammadApon11/main/images/gihubcover-modified.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -13,10 +13,9 @@
 
 <br />
 
-<!-- [<p align="center" gap="10"><img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png">](https://github.com/MohammadApon11/)[<img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png">](https://www.facebook.com/mohammad.apon.426/)[<img height="60" width="210" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"> </p>](https://mohammadapon.vercel.app/) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-apon-1b0b88243/"><img height="60" width="250" style="margin-right: 20px;" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png"></a>
-  <a href="https://mohammadapon.vercel.app/"><img height="60" width="250" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-3.png"></a>
+  <a href="https://www.linkedin.com/in/mohammadapon11"><img height="60" width="250" style="margin-right: 20px;" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-1.png"></a>
+  <a href="https://mohammad-apon.vercel.app/"><img height="60" width="250" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/social-2.png"></a>
 </p>
 
 <br />
@@ -35,14 +34,14 @@
 <p align="center">
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/express.png"/>
 <img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/mongodb.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/sqlite2.svg"/>
+<img width="60" height="60"  src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/sqlite2.svg"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/css.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/material-ui.png"/>
+<img width="60" height="60" src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/material-ui.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/sass.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/MohammadApon11/MohammadApon11/blob/main/images/icons/firebase.png"/>
